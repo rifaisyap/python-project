@@ -18,7 +18,8 @@ Program ini dibuat dengan menggunakan bahasa python yang diperuntukkan sebagai a
 </ul><br />
 
 # Flowchart
-![Self Service Cashier Flowchart](https://github.com/rifaisyap/python-project/assets/134842689/aa8c8f0d-5029-40cf-8799-c85501a3a53e)
+![Flowchart](https://github.com/rifaisyap/python-project/assets/134842689/e28acc36-daa2-43d6-b622-a4c0d5b13983)
+
 
 # Penjelasan Code
 ## a. init()
