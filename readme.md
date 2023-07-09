@@ -101,7 +101,7 @@ Fungsi untuk menghitung total transaksi dan total diskon yang didapatkan pembeli
 
 ![image](https://github.com/rifaisyap/python-project/assets/134842689/113407f3-d3ba-42b2-8494-90f85123c6bd)
 
-Cara kerja dari fungsi ini adalah untuk menghitung total transaksi dari harga item dan dikalikan dengan total item. Jika total transaksi lebih dari 200.000, maka customer akan mendapatkan diskon sebesar 5%, sedangkan jika total transaksi lebih dari 300.00, maka customer akan mendapatkan diskon sebesar 8%, dan jika total transaksi lebih dari 500.000, maka customer akan mendapatkan diskon sebesar 0%.
+Cara kerja dari fungsi ini adalah untuk menghitung total transaksi dari harga item dan dikalikan dengan total item. Jika total transaksi lebih dari 200.000, maka customer akan mendapatkan diskon sebesar 5%, sedangkan jika total transaksi lebih dari 300.00, maka customer akan mendapatkan diskon sebesar 8%, dan jika total transaksi lebih dari 500.000, maka customer akan mendapatkan diskon sebesar 10%.
 Namun, jika total pesanan kurang dari 200.000, maka akan muncul kalimat ```Total belanja anda adalah 130000```.
 
 # Hasil Test Case
