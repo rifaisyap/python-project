@@ -1,7 +1,6 @@
 # Latar Belakang
 Program ini dibuat dengan menggunakan bahasa python yang diperuntukkan sebagai aplikasi kasir sederhana yang datanya terdiri dari nama item, harga item, dan jumlah item dengan fitur-fiturnya adalah sebagai berikut: <br />
 <ol>
-  <li>Membuat ID transaksi</li>
   <li>Menambahkan data barang yang dibeli beserta jumlah dan total harganya</li>
   <li>Mengubah data barang yang dibeli beserta jumlah dan total harganya</li>
   <li>Menghapus data dari salah satu barang yang sudah diinput</li>

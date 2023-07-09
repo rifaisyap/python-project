@@ -99,6 +99,8 @@ class Transaction():
       elif total > 500_000:
         total = total - (total * 0.1)
         print(f"Anda mendapatkan diskon sebesar 10%, sehingga total transaksi anda adalah {total}")
+      else:
+        print(f"Total belanja anda adalah {total}")
     
        
 
